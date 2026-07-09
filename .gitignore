@@ -3,4 +3,10 @@
 !*.cpp
 !*.h
 !*.hpp
+!*.swift
+!*.sh
+!Package.swift
 !.gitignore
+
+.build/
+build/
